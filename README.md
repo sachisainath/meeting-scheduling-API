@@ -1,7 +1,7 @@
 # meeting-scheduling-API
 {
-  "first_name": "Harry",
-  "last_name": "Ghim",
+  "first_name": "Sachi",
+  "last_name": "Sainath",
   "email": "fhjdhf@djhfjdf.ff",
   "password": "bdkfhds1e3r",
   "options": {
